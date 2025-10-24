@@ -3,20 +3,15 @@
 IMPORTS
 """
 
-import os
-from io import BytesIO
-import base64
+
 
 import pandas as pd
 
-
-from io import StringIO
 
 import numpy as np
 from datetime import date
 from datetime import datetime
 from datetime import timedelta
-from datetime import timezone
 
 
 import matplotlib.pyplot as plt
